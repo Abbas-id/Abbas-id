@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Muhammad Abbas and i am currently working on AI/ML.<br>and also currently learning Python.<br> i have learned C++ with DSA(currently learning in univeristy)<br>
+I am Muhammad Abbas and I am currently working on AI/ML.<br>and Also currently learning Python.<br> i have learned C++ with DSA (currently learning in univeristy)<br>
 
 
 ## 🌐 Socials:
